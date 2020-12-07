@@ -1,0 +1,26 @@
+{
+  "name": "tailwind_play",
+  "version": "1.0.0",
+  "description": "sam",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.4",
+    "postcss": "^8.1.14",
+    "tailwindcss": "^2.0.1"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "tailwind"
+  ],
+  "author": "sam",
+  "license": "ISC"
+}
